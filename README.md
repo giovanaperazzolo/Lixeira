@@ -7,7 +7,8 @@
 
   &nbsp; &nbsp; O Circuito do projeto está apresentado abaixo: 
   
-  ![image](https://github.com/giovanaperazzolo/Lixeira/assets/62448232/9d1a91d6-e120-43c2-bc9f-278b1aefbca8)
+  ![image](https://github.com/giovanaperazzolo/Lixeira/assets/62448232/52473cf5-7dca-4670-acf3-29bbe922993e)
+
 
 
 O Projeto foi realizado pelos alunos: 
